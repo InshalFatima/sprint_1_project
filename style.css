@@ -1,6 +1,6 @@
 *{
-margin: 10px;
-text-align: center;
+    margin: 10px;
+    text-align: center;
 }
 h1{
     text-align: center; 
@@ -22,8 +22,6 @@ img{
     width: 400px;
 }
 hr{
-    align-items: center;
-    text-align: center;
     width: 500px;
     margin: auto;
 }
